@@ -3,6 +3,6 @@ Label: AnonymousRoot
 Suite: stable
 Version: 1.0
 Codename: ios
-Architectures: iphoneos-arm iphoneos-arm64 iphone-arm64e
+Architectures: iphoneos-arm64e iphoneos-arm64 iphoneos-arm
 Components: main
 Description: Kho Tweak cua anonymousrootexe-bit
